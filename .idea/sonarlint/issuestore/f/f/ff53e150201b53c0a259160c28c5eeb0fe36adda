@@ -1,0 +1,7 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…¶©ãÿÿÿÿÿ8•þ¶à¦.
+o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½’…¹þÿÿÿÿ8³©Þà¦.
+b
+java:S1192"FDefine a constant instead of duplicating this literal "Dummy" 4 times.(®››L8³©Þà¦.
+V
+java:S1128"9Remove this unused import 'com.data.api.TodoServiceStub'.(Î©ÙÖ8Úì¶à¦.
